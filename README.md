@@ -3,8 +3,13 @@
 
 I like building AI models and Agents.
 
-I use arch btw :)
+I use arch btw ;)
 
+```
+⚠️ Warning: 
+    - May overfit to coffee. Inference speed depends on caffeine levels.
+    - This README was trained on way too many epochs.
+```
 ---
 
 ### Tools & Technologies I Use
@@ -35,7 +40,7 @@ I use arch btw :)
 
 ---
 
-Like a Transformer, don’t process everything equally — focus your attention where it matters most.
+Do not be afraid to escape the comfort zone. No local minima should hold you down. This is the way.
 
 ---
 
@@ -55,6 +60,9 @@ Email is preferred :3
 
 
 ```
-I find your lack of training data disturbing.
-May the GPUs be with you.
+May the GPUs be with you. 
 ```
+
+
+
+
