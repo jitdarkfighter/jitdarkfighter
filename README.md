@@ -1,11 +1,13 @@
-# Hi there, I'm Jithin 👋
+# Hello there, I'm Jithin 👋
 **Currently Backpropagating Through Life**
 
 I like building AI models and Agents.
 
+I use arch btw :)
+
 ---
 
-### 🛠️ Tools & Technologies I Use
+### Tools & Technologies I Use
 
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -33,9 +35,26 @@ I like building AI models and Agents.
 
 ---
 
-### ⚡ Fun Fact
 Like a Transformer, don’t process everything equally — focus your attention where it matters most.
 
 ---
 
 *"The best way to predict the future is to invent it."* – Alan Kay
+
+---
+
+```txt
+- Contact ────────────────────────────────────────────────
+  Email.Personal:   jithinshaji@gmail.com
+  LinkedIn:         linkedin.com/in/jithinshaji13/
+  Discord:          jitdarkfighter
+
+Email is preferred :3
+```
+---
+
+
+```
+I find your lack of training data disturbing.
+May the GPUs be with you.
+```
