@@ -1,15 +1,21 @@
 # Hello there, I'm Jithin 👋
-**Currently Backpropagating Through Life**
+**Currently Backpropagating Through Life**<br>
+*(loss is still going down, allegedly)*
 
-I like building AI models and Agents.
+I like building AI models, especially RL agents that actually work.
 
-I use arch btw ;)
+**I use arch n vim btw ;)**
 
-```
-⚠️ Warning: 
-    - May overfit to coffee. Inference speed depends on caffeine levels.
-    - This README was trained on way too many epochs.
-```
+#### Things I'm doing instead of sleeping
+- RL for adaptive decision making under non-stationarity
+- Dynamic Vectorization for RecSys
+
+#### Side quests which I swear are the main quest
+- Continual Learning (updating the model without breaking it)
+- Latent Reasoning (reasoning without unnecessary yap)
+- Maths :D (cos its fun)
+- LLM related RLHF/RLVR (meh)
+
 ---
 
 ### Tools & Technologies I Use
@@ -38,29 +44,18 @@ I use arch btw ;)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white)
 
----
 
-Do not be afraid to escape the comfort zone. No local minima should hold you down. This is the way.
-
----
-
-*"The best way to predict the future is to invent it."* – Alan Kay
-
----
-
-```txt
+```
 - Contact ────────────────────────────────────────────────
-  Email.Personal:   jithinshaji@gmail.com
+  Email.Personal:   [full name][at]gmail[dot]com
   LinkedIn:         linkedin.com/in/jithinshaji13/
   Discord:          jitdarkfighter
-
-Email is preferred :3
 ```
+
 ---
 
-
 ```
-May the GPUs be with you. 
+Please give compute. Too many ideas, too less GPUs.
 ```
 
 
