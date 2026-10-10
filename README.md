@@ -14,7 +14,7 @@ I like building AI models, especially RL agents that actually work.
 - Continual Learning (updating the model without breaking it)
 - Latent Reasoning (reasoning without unnecessary yap)
 - Maths :D (cos its fun)
-- LLM related RLHF/RLVR (meh)
+- LLM related RLHF/RLVR
 
 ---
 
